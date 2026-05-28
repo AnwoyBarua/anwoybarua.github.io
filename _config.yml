@@ -23,7 +23,7 @@ repository               : "anwoybarua.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Anwoy Barua"
   pronouns         : # example: "she/her"  
   bio              : "Statistics Graduate | Interested in Climate Science"
