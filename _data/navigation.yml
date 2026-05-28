@@ -17,11 +17,8 @@ main:
   - title: "Blog Posts"
     url: /year-archive/
     
-  # - title: "Events & Talks"
-  #   url: /talks/    
-
-  # - title: "Teaching"
-  #   url: /teaching/    
+  - title: "Events & Talks"
+    url: /talks/    
   
   - title: "CV"
     url: /cv/
