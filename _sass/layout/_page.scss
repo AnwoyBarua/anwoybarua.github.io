@@ -16,7 +16,7 @@
   }
 }
 
-.layout--archive .page {
+.page {
   @include breakpoint($large) {
     @include span(12 of 12 last);
     @include prefix(0);
@@ -24,8 +24,15 @@
   }
 
   .page__inner-wrap {
+    width: 100%;
     max-width: 1200px;
     margin: 0 auto;
+
+    .page__content,
+    .page__meta,
+    .page__share {
+      width: 100%;
+    }
   }
 }
 
