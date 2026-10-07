@@ -1,7 +1,7 @@
 ---
 title: '𝐒𝐨𝐦𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐌𝐨𝐬𝐭 𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐒𝐞𝐥𝐞𝐜𝐭𝐢𝐨𝐧 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬 (𝐏𝐚𝐫𝐭 1)'
 date: 2024-05-28
-permalink: /posts/feature_selection
+permalink: /posts/2024/05/feature_selection/
 tags:
   - ML
   - Feature Selection
