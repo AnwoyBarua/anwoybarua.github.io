@@ -1,4 +1,4 @@
-<img width="1021" height="505" alt="image" src="https://github.com/user-attachments/assets/d475bca0-630b-42dd-a3fe-fc5d481a54af" />---
+---
 title: '𝐒𝐨𝐦𝐞 𝐨𝐟 𝐭𝐡𝐞 𝐌𝐨𝐬𝐭 𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐒𝐞𝐥𝐞𝐜𝐭𝐢𝐨𝐧 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬 (𝐏𝐚𝐫𝐭 1)'
 date: 2024-05-28
 permalink: /posts/2026/05/post1
