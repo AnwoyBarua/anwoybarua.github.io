@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae (CV)"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,56 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+Biographical Sketch
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+Robert Zupko II is currently working in the private sector where he leads projects concerning verifiable AI/ML systems. Previously he was a member of the [Boni Lab](https://mol.ax) at the [Center for Infectious Disease Dynamics](https://www.huck.psu.edu/institutes-and-centers/center-for-infectious-disease-dynamics) at [Pennsylvania State University](https://www.psu.edu/) where he conducted research into the evolution of antimalarial resistant *Plasmodium falciparum* and interventions that can be used to prolong the efficacy of existing antimalarials. He received his PhD in Computational Science and Engineering from Michigan Technological University in 2019 where his doctoral studies were focused on agent-based modeling with applications to coupled human and natural systems with an emphasis on the sustainable forestry for bioenergy resources. Prior to enrolling at Michigan Tech he worked as a software engineer for over a decade in a number of roles related to health and biomedical research.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+---
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+If file does not load below, <a href="{{ site.baseurl }}/files/cv.pdf">try downloading (pdf).</a>
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+<embed src="{{ site.baseurl }}/files/cv.pdf" width="650" height="800" type='application/pdf'>
