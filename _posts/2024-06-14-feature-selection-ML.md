@@ -15,7 +15,7 @@ Generally, 𝐭𝐡𝐫𝐞𝐞 methods are widely used for feature selection:
    - 𝐖𝐫𝐚𝐩𝐩𝐞𝐫 𝐦𝐞𝐭𝐡𝐨𝐝𝐬
    - 𝐄𝐦𝐛𝐞𝐝𝐝𝐞𝐝 𝐦𝐞𝐭𝐡𝐨𝐝𝐬
 In today's post we will be going through the first one - 𝐅𝐢𝐥𝐭𝐞𝐫 𝐛𝐚𝐬𝐞𝐝 𝐦𝐞𝐭𝐡𝐨𝐝𝐬.
-For python implementation of these methods visit my kaggle notebook 👉 (https://lnkd.in/gqURtWXr).
+For python implementation of these methods visit my [kaggle notebook](https://lnkd.in/gqURtWXr).
 
 𝐅𝐢𝐥𝐭𝐞𝐫 𝐛𝐚𝐬𝐞𝐝 𝐦𝐞𝐭𝐡𝐨𝐝:
 	It’s usually best to begin your feature selection using a univariate method, as these are easy to implement and time-efficient.
