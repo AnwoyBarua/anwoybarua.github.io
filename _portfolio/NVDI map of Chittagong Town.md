@@ -1,6 +1,6 @@
 ---
 title: "NDVI Mapping of Chittagong District"
-excerpt: "Remote sensing-based assessment and visualization of vegetation conditions."
+excerpt: "Remote sensing-based assessment and visualization of vegetation conditions.<br/><img src='/images/NDVI_ctg_2024(front).png'>"
 collection: portfolio
 ---
 
