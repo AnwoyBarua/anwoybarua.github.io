@@ -1,7 +1,7 @@
 ---
-title: 'Feature Selection'
+title: '𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐒𝐞𝐥𝐞𝐜𝐭𝐢𝐨𝐧 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬'
 date: 2024-06-14
-permalink: /posts/2024/06/testing/
+permalink: /posts/2024/06/feature_selection/
 tags:
   - ML
   - Feature Selection
