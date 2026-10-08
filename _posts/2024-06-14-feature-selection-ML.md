@@ -7,8 +7,6 @@ tags:
   - Feature Selection
 ---
 
-![](.images/Feature_Selection_BG.png)
-
 In a Machine Learning problem, not all features may contribute to the final prediction. Sometimes, reducing the number of features can improve a model's performance or interpretability. Regardless of the reason, it's often beneficial to remove irrelevant or unwanted features.
 
 Generally, 𝐭𝐡𝐫𝐞𝐞 methods are widely used for feature selection:
