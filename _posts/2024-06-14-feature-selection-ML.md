@@ -1,6 +1,6 @@
 ---
 title: '𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐅𝐞𝐚𝐭𝐮𝐫𝐞 𝐒𝐞𝐥𝐞𝐜𝐭𝐢𝐨𝐧 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬'
-date: 2024-06-14
+date: 2024-06-25
 permalink: /posts/2024/06/feature_selection/
 excerpt: "This post dives into the filter based feature selection methods in Machine Learning."
 tags:
