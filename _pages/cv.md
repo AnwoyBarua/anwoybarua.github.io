@@ -8,10 +8,5 @@ redirect_from:
 ---
 ## Curriculum Vitae
 
-
-[**Download My CV (PDF)**](/files/CV(Anwoy_Barua).pdf)
-
-You can also view my CV below.
-
 <embed src="/files/CV(Anwoy_Barua).pdf" type="application/pdf" width="100%" height="600px" />
 
