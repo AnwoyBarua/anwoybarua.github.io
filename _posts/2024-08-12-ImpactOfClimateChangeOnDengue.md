@@ -23,12 +23,12 @@ Climate patterns in Bangladesh are changing dreadfully due to environmental poll
 
 As the climate crisis intensifies, the risk to public health grows more urgent and severe. By implementing robust public health interventions and sustainable environmental policies, we can mitigate the impacts of climate change on vector-borne diseases. It's crucial for Bangladesh and the global community to work together towards a healthier and more resilient future.
 
-References:
-1.	https://old.dghs.gov.bd/images/docs/vpr/20231011_dengue_all.pdf
-2.	https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue
-3.	https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.884645/full#B7
-4.	https://www.rockefellerfoundation.org/insights/perspective/the-increasing-burden-of-dengue-fever-in-a-changing-climate/#:~:text=At%20higher%20temperatures%2C%20adult%20mosquitoes,infect%20new%20hosts%20more%20quickly.
-5.	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10491345/
-6.	https://www.sciencedirect.com/science/article/pii/S2468042723000428
-7.	https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10192530/
+*References:*
+1.	<https://old.dghs.gov.bd/images/docs/vpr/20231011_dengue_all.pdf>
+2.	<https://www.who.int/news-room/fact-sheets/detail/dengue-and-severe-dengue>
+3.	<https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2022.884645/full#B7>
+4.	<https://www.rockefellerfoundation.org/insights/perspective/the-increasing-burden-of-dengue-fever-in-a-changing-climate/#:~:text=At%20higher%20temperatures%2C%20adult%20mosquitoes,infect%20new%20hosts%20more%20quickly.>
+5.	<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10491345/>
+6.	<https://www.sciencedirect.com/science/article/pii/S2468042723000428>
+7.	<https://www.ncbi.nlm.nih.gov/pmc/articles/PMC10192530/>
 
