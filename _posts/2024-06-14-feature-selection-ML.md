@@ -7,20 +7,17 @@ tags:
   - ML
   - Feature Selection
 ---
-<p style="text-align: justify;">
 In a Machine Learning problem, not all features may contribute to the final prediction. Sometimes, reducing the number of features can improve a model's performance or interpretability. Regardless of the reason, it's often beneficial to remove irrelevant or unwanted features.
-</p>
 
-<p style="text-align: justify;">
+
 Generally, 𝐭𝐡𝐫𝐞𝐞 methods are widely used for feature selection:
    - 𝐅𝐢𝐥𝐭𝐞𝐫 𝐛𝐚𝐬𝐞𝐝 𝐦𝐞𝐭𝐡𝐨𝐝𝐬
    - 𝐖𝐫𝐚𝐩𝐩𝐞𝐫 𝐦𝐞𝐭𝐡𝐨𝐝𝐬
    - 𝐄𝐦𝐛𝐞𝐝𝐝𝐞𝐝 𝐦𝐞𝐭𝐡𝐨𝐝𝐬
 In today's post we will be going through the first one - 𝐅𝐢𝐥𝐭𝐞𝐫 𝐛𝐚𝐬𝐞𝐝 𝐦𝐞𝐭𝐡𝐨𝐝𝐬.
 For python implementation of these methods visit my [kaggle notebook](https://www.kaggle.com/code/anwoybarua/all-feature-selection-techniques).
-</p>
 
-<p style="text-align: justify;">
+
 𝐅𝐢𝐥𝐭𝐞𝐫 𝐛𝐚𝐬𝐞𝐝 𝐦𝐞𝐭𝐡𝐨𝐝:
 	It’s usually best to begin your feature selection using a univariate method, as these are easy to implement and time-efficient.
 
@@ -33,13 +30,12 @@ For python implementation of these methods visit my [kaggle notebook](https://ww
    4. 𝐀𝐍𝐎𝐕𝐀: This method examines the relationship between each individual feature and the target variable (categorical). It determines the strength of the relationship using the p-value (from the F-statistic) for each feature, and retains the k best features. Scikit-learn provides a dedicated function called SelectKBest that can be used with f_classif or f_regression to select the k most important features. Finding the optimal value for k may require some trial and error or hyperparameter tuning.
 
    5. 𝐂𝐡𝐢-𝐬𝐪𝐮𝐚𝐫𝐞: The chi-square test can be used to study the dependency between categorical features and a categorical target variable, retaining those that show significant dependency.
-</p>
 
-<p style="text-align: justify;">
+
+
 While these filter-based methods are a good starting point for feature selection, they have some major flaws:
     - Being a univariate method, they don't consider the interaction between features and target variables.
     - There is a chance that we may delete features bearing low importance individually, but having significant impact when combined with other features.
-</p>
 
 On my next post I will be going through the wrapper method in details. 
 
