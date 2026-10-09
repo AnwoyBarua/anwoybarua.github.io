@@ -10,6 +10,7 @@ tags:
 <div style="text-align: justify;">
 Dengue fever, a mosquito-borne viral infection, has become a significant public health concern in many parts of the world. According to WHO, an estimated 100-400 million dengue infections occur yearly, putting half the population at risk. Bangladesh is also susceptible to dengue due to its tropical climate. Dengue incidences have drastically increased in Bangladesh over the years, with the previous year reporting 321,179 hospitalizations and 1,705 deaths, the highest in the nation's history.
 
+
 While the spread of dengue fever is influenced by numerous factors, climate change stands out as a critical element that is reshaping the dynamics of this disease. The most important climatic factors linked to dengue transmission are temperature, rainfall, and relative humidity.
 
 Usually at higher temperatures adult mosquitoes bite more frequently. Higher temperatures are suitable for dengue transmission as it affects the reproductive capacity of mosquitoes, stimulating egg hatching and accelerating growth of the larvae, thus decreasing the time to maturity. Warmer temperatures can extend the length of the season when mosquitoes are active, allowing a longer time period for dengue transmission.
