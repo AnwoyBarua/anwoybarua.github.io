@@ -7,6 +7,7 @@ tags:
   - Climate Change
   - Dengue
 ---
+<div style="text-align: justify;">
 Dengue fever, a mosquito-borne viral infection, has become a significant public health concern in many parts of the world. According to WHO, an estimated 100-400 million dengue infections occur yearly, putting half the population at risk. Bangladesh is also susceptible to dengue due to its tropical climate. Dengue incidences have drastically increased in Bangladesh over the years, with the previous year reporting 321,179 hospitalizations and 1,705 deaths, the highest in the nation's history.
 
 While the spread of dengue fever is influenced by numerous factors, climate change stands out as a critical element that is reshaping the dynamics of this disease. The most important climatic factors linked to dengue transmission are temperature, rainfall, and relative humidity.
@@ -22,6 +23,7 @@ Dengue cases were reported more during monsoon months when relative humidity was
 Climate patterns in Bangladesh are changing dreadfully due to environmental pollution and the greenhouse effect, making the country increasingly suitable for the propagation of dengue and other vector-borne illnesses, including malaria and chikungunya.
 
 As the climate crisis intensifies, the risk to public health grows more urgent and severe. By implementing robust public health interventions and sustainable environmental policies, we can mitigate the impacts of climate change on vector-borne diseases. It's crucial for Bangladesh and the global community to work together towards a healthier and more resilient future.
+</div>
 
 *References:*
 1.	<https://old.dghs.gov.bd/images/docs/vpr/20231011_dengue_all.pdf>
