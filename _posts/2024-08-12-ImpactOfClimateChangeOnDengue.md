@@ -8,7 +8,7 @@ tags:
   - Dengue
 ---
 <p style="text-align: justify;">
-Dengue fever, a mosquito-borne viral infection, has become a significant public health concern in many parts of the world. According to WHO, an estimated <bold>100-400 million dengue infections occur yearly</bold> ,putting half the population at risk. Bangladesh is also susceptible to dengue due to its tropical climate. Dengue incidences have drastically increased in Bangladesh over the years, with the previous year reporting 321,179 hospitalizations and 1,705 deaths, the highest in the nation's history.
+Dengue fever, a mosquito-borne viral infection, has become a significant public health concern in many parts of the world. According to WHO, an estimated <strong>100-400 million dengue infections occur yearly</strong> ,putting half the population at risk. Bangladesh is also susceptible to dengue due to its tropical climate. Dengue incidences have drastically increased in Bangladesh over the years, with the previous year reporting <strong>321,179 hospitalizations and 1,705 deaths </strong>, the highest in the nation's history.
 </p>
 
 <p style="text-align: justify;">
