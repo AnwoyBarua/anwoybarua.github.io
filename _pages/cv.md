@@ -13,4 +13,5 @@ redirect_from:
 
 You can also view my CV below.
 
-<iframe src="/files/CV(Anwoy_Barua).pdf" width="100%" height="600px"></iframe>
+<embed src="/files/CV(Anwoy_Barua).pdf" type="application/pdf" width="100%" height="600px" />
+
