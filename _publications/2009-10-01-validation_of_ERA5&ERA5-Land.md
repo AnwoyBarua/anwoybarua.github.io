@@ -3,6 +3,8 @@ title: "Validation of ERA5 and ERA5-Land Reanalysis Data for Daily Air Temperatu
 Extreme Indices over Bangladesh"
 collection: publications
 category: manuscripts
+date: 2026-09-23
+excerpt: ""
 venue: "Theoretical and Applied Climatology"
 venue_label: "Paper is Under Review at"
 paperurl: "https://example.com/your-preprint"
