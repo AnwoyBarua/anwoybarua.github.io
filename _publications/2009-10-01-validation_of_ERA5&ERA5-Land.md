@@ -4,11 +4,10 @@ Extreme Indices over Bangladesh"
 collection: publications
 category: manuscripts
 permalink: /publication/2026-09-validation_of_ERA5&ERA5-Land
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'This paper is currently under revision at journal "Theoretical and Applied Climatology".'
 date: 2026-09-23
-venue: 'Theoretical and Applied Climatology'
 paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: 'insert citation'
 ---
 ## Abstract
 <p style="text-align: justify;">
