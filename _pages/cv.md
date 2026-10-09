@@ -8,16 +8,9 @@ redirect_from:
 ---
 ## Curriculum Vitae
 
-[**Download My CV (PDF)**](/files/CV(Anwoy_Barua).pdff)
+
+[**Download My CV (PDF)**](/files/CV(Anwoy_Barua).pdf)
 
 You can also view my CV below.
 
-[**Open CV in a new tab**](/files/CV(Anwoy_Barua).pdf)
-
-<iframe
-  src="/files/Anwoy_Barua_CV.pdf"
-  width="100%"
-  height="800px"
-  style="border: 1px solid #ddd;"
-  title="My Curriculum Vitae">
-</iframe>
+<iframe src="/files/CV(Anwoy_Barua).pdf" width="100%" height="600px"></iframe>
