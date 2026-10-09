@@ -3,10 +3,10 @@ title: "Validation of ERA5 and ERA5-Land Reanalysis Data for Daily Air Temperatu
 Extreme Indices over Bangladesh"
 collection: publications
 category: manuscripts
-permalink: /publication/2026-09-validation_of_ERA5&ERA5-Land
-excerpt: 'This paper is currently under revision at journal "Theoretical and Applied Climatology".'
-date: 2026-09-23
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
+venue: "Theoretical and Applied Climatology"
+venue_label: "Paper is Under Review at"
+paperurl: "https://example.com/your-preprint"
+paperlinktext: "View preprint"
 citation: 'insert citation'
 ---
 ## Abstract
