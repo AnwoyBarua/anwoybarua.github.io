@@ -1,6 +1,6 @@
 ---
 title: "Remote Sensing-Based Spectral Index Mapping of Chittagong District (2024)"
-excerpt: "Spatial assessment of vegetation, built-up areas, surface water, and bare land using satellite-derived spectral indices.<br/><img src='//images/NDVI_ctg_2024(front).jpg'>"
+excerpt: "Spatial assessment of vegetation, built-up areas, surface water, and bare land using satellite-derived spectral indices.<br/><img src='/images/NDVI_ctg_2024(front).jpg'>"
 collection: portfolio
 toc: true
 toc_label: "On This Page"
@@ -73,7 +73,7 @@ Together, these indices provide complementary information about land-surface cha
 
 ## Map Creation Workflow:
 1. At first, remote sensing dataset (Landsat8) dataset were obtained from the USGS website.
-2. Then those multispectral /images were merged using mosaic to new raster tool of ArcGIS
+2. Then those multispectral images were merged using mosaic to new raster tool of ArcGIS
 3. Clip the image to Chittagong district's geographic boundary.
 4. Use Raster calculator to compute each indices form the appropriate Landsat8 bands.
 5. Classify using symbology (five classes created for readability)
