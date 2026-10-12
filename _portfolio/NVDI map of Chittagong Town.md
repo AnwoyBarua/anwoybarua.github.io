@@ -12,6 +12,6 @@ Satellite imagery was processed to calculate NDVI and classify vegetation into f
 
 The project involved **satellite data processing, spectral-index calculation, spatial classification, and thematic map design** using GIS.
 
-<img src="/images/NDVI_ctg_2024.jpg" style="max-height: 75vh; width: auto;" alt="NDVI of Chittagong">
+<img src="/images/NDVI_ctg_2024.jpg" width = "60%" alt="NDVI of Chittagong">
 
 **Tools:** ArcGIS · Remote Sensing · GIS · NDVI · Spatial Analysis
