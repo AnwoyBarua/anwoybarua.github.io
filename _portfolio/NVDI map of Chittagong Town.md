@@ -2,6 +2,9 @@
 title: "Remote Sensing-Based Spectral Index Mapping of Chittagong District (2024)"
 excerpt: "Spatial assessment of vegetation, built-up areas, surface water, and bare land using satellite-derived spectral indices.<br/><img src='//images/NDVI_ctg_2024(front).jpg'>"
 collection: portfolio
+toc: true
+toc_label: "On This Page"
+toc_sticky: true
 ---
 
 This project explores the spatial distribution of vegetation, built-up areas, surface water, and bare land across **Chittagong District, Bangladesh**, using Remote Sensing and GIS. Four indices—**Normalized Difference Vegetation Index (NDVI), Normalized Difference Built-up Index (NDBI), Normalized Difference Water Index (NDWI), and Normalized Difference Bareness Index (NDBaI)**—were used to characterize different land-surface features in 2024.
