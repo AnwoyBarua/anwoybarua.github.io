@@ -13,14 +13,14 @@ tags:
 ---
 
 <iframe
-  src="{{ '/notebooks/Xarray-guidebook-part1.html' | relative_url }}"
+  src="{{ '/notebooks/Xarray_guidebook_part1.html' | relative_url }}"
   width="100%"
   height="850"
   style="border: 1px solid #ddd; border-radius: 6px;"
   title="Xarray Guidebook Part 1">
 </iframe>
 
-[**View the full notebook in a new tab**]({{ '/notebooks/Xarray-guidebook-part1.html' | relative_url }})
+[**View the full notebook in a new tab**]({{ '/notebooks/Xarray_guidebook_part1.html' | relative_url }})
 
 ---
 
