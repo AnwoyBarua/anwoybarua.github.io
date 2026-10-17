@@ -9,7 +9,7 @@ venue: "Theoretical and Applied Climatology"
 venue_label: "Paper is Under Review at"
 paperurl: "https://doi.org/10.21203/rs.3.rs-11138659/v1"
 paperlinktext: "View preprint"
-citation: 'insert citation'
+citation: 'Anwoy Barua, Sanjib Ghosh, Shyamal Karmakar et al. Validation of ERA5 and ERA5-Land Reanalysis Data for Daily Air Temperature and Extreme Temperature Indices over Bangladesh, 14 October 2026, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-11138659/v1]'
 ---
 ## Abstract
 <p style="text-align: justify;">
