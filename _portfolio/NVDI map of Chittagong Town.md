@@ -6,8 +6,9 @@ collection: portfolio
 
 {% include toc %} 
 
-## 0. Outline
-This project explores the spatial distribution of vegetation, built-up areas, surface water, and bare land across **Chittagong District, Bangladesh**, using Remote Sensing and GIS. Four indices—**Normalized Difference Vegetation Index (NDVI), Normalized Difference Built-up Index (NDBI), Normalized Difference Water Index (NDWI), and Normalized Difference Bareness Index (NDBaI)**—were used to characterize different land-surface features in 2024.
+This project explores the spatial distribution of vegetation, built-up areas, surface water, and bare land across **Chittagong District, Bangladesh**, using Remote Sensing and GIS.
+
+Four indices—**Normalized Difference Vegetation Index (NDVI), Normalized Difference Built-up Index (NDBI), Normalized Difference Water Index (NDWI), and Normalized Difference Bareness Index (NDBaI)**—were used to characterize different land-surface features in 2024.
 
 ## 1. Normalized Difference Vegetation Index (NDVI)
 
