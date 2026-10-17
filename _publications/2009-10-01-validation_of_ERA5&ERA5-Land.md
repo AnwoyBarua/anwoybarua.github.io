@@ -7,7 +7,7 @@ date: 2026-09-23
 excerpt: ""
 venue: "Theoretical and Applied Climatology"
 venue_label: "Paper is Under Review at"
-paperurl: "https://example.com/your-preprint"
+paperurl: "https://doi.org/10.21203/rs.3.rs-11138659/v1"
 paperlinktext: "View preprint"
 citation: 'insert citation'
 ---
