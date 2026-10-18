@@ -1,7 +1,9 @@
 ---
 title: "Remote Sensing-Based Spectral Index Mapping of Chittagong District (2024)"
+date: 2025-11-13
 excerpt: "Spatial assessment of vegetation, built-up areas, surface water, and bare land using satellite-derived spectral indices.<br/><img src='/images/NDVI_ctg_2024(front).jpg'>"
 collection: portfolio
+order: 2
 ---
 
 {% include toc %} 
