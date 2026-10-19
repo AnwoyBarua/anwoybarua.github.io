@@ -6,5 +6,5 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-<embed src="/files/CV(Anwoy_Barua).pdf" type="application/pdf" width="100%" height="600px" />
+<embed src="/files/CV (Anwoy Barua).pdf" type="application/pdf" width="100%" height="600px" />
 

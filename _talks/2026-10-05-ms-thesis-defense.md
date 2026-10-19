@@ -11,7 +11,7 @@ date: 2026-10-05
 
 I have sucessfully defended my Master's thesis. Yeah!!! 
 
-After almost 10 months of hard work my Master's thesis is came to life. My thesis is on "Evaluation of Statistical and Machine Learning Based Bias Correction Techniques for CMIP6 Daily Air Temperature data".
+After almost 10 months of hard work my Master's thesis came to life. My thesis is on "Evaluation of Statistical and Machine Learning Based Bias Correction Techniques for CMIP6 Daily Air Temperature data".
 
 These are some pictures of that day.
 

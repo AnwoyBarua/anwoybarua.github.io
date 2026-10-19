@@ -1,0 +1,33 @@
+ Gemfile                                            |    6 [32m+[m
+ _pages/portfolio.html                              |    5 [32m+[m[31m-[m
+ _portfolio/NVDI map of Chittagong Town.md          |    2 [32m+[m
+ _portfolio/Validation of ERA5 & ER5-Land.md        | 6446 [32m+++++++++++++++[m
+ _portfolio/portfolio-2.html                        |    7 [31m-[m
+ _posts/2026-10-07-Xarray-guidebook-part1.md        |  729 [32m+[m[31m-[m
+ _posts/2026-10-18-test.html                        | 8572 [31m--------------------[m
+ _publications/2010-10-01-paper-title-number-2.md   |   14 [31m-[m
+ _publications/2015-10-01-paper-title-number-3.md   |   14 [31m-[m
+ _publications/2024-02-17-paper-title-number-4.md   |   13 [31m-[m
+ _publications/2025-06-08-paper-title-number-5.md   |   13 [31m-[m
+ ... => 2026-09-23-validation_of_ERA5&ERA5-Land.md} |    0
+ _talks/2012-03-01-talk-1.md                        |   11 [31m-[m
+ _talks/2013-03-01-tutorial-1.md                    |   13 [31m-[m
+ _talks/2014-02-01-talk-2.md                        |   13 [31m-[m
+ _talks/2014-03-01-talk-3.md                        |   11 [31m-[m
+ _talks/2026-10-05-ms-thesis-defense.md             |   22 [32m+[m
+ .../ms thesis defense/ms-thesis-defense1.jpeg      |  Bin [31m0[m -> [32m3175183[m bytes
+ .../ms thesis defense/ms-thesis-defense2.jpeg      |  Bin [31m0[m -> [32m3298651[m bytes
+ .../ms thesis defense/ms-thesis-defense3.jpeg      |  Bin [31m0[m -> [32m108941[m bytes
+ .../Validation_of ERA5Land_(cover_page).png        |  Bin [31m0[m -> [32m132491[m bytes
+ .../figures/Validation_of_ERA5Land_14_0.png        |  Bin [31m0[m -> [32m101086[m bytes
+ .../figures/Validation_of_ERA5Land_44_0.png        |  Bin [31m0[m -> [32m100174[m bytes
+ .../figures/Validation_of_ERA5Land_46_0.png        |  Bin [31m0[m -> [32m101822[m bytes
+ .../figures/Validation_of_ERA5Land_64_0.png        |  Bin [31m0[m -> [32m146910[m bytes
+ .../figures/Validation_of_ERA5Land_66_0.png        |  Bin [31m0[m -> [32m141252[m bytes
+ .../figures/Validation_of_ERA5Land_81_0.png        |  Bin [31m0[m -> [32m292741[m bytes
+ .../figures/Validation_of_ERA5Land_82_0.png        |  Bin [31m0[m -> [32m263263[m bytes
+ .../figures/Validation_of_ERA5Land_88_1.png        |  Bin [31m0[m -> [32m71926[m bytes
+ .../figures/Validation_of_ERA5Land_92_1.png        |  Bin [31m0[m -> [32m67298[m bytes
+ images/bio-photo-2.jpg                             |  Bin [31m1806[m -> [32m0[m bytes
+ images/bio-photo.jpg                               |  Bin [31m1661[m -> [32m0[m bytes
+ 32 files changed, 7198 insertions(+), 8693 deletions(-)

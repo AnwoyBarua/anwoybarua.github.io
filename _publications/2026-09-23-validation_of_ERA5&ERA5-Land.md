@@ -1,6 +1,5 @@
 ---
-title: "Validation of ERA5 and ERA5-Land Reanalysis Data for Daily Air Temperature and
-Extreme Indices over Bangladesh"
+title: "Validation of ERA5 and ERA5-Land Reanalysis Data for Daily Air Temperature and Extreme Indices over Bangladesh"
 collection: publications
 category: manuscripts
 date: 2026-09-23
