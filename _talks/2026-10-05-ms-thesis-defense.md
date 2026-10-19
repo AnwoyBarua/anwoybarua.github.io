@@ -15,8 +15,8 @@ After almost 10 months of hard work my Master's thesis came to life. My thesis i
 
 These are some pictures of that day.
 
-![Presenting my thesis](\images\Events (Talks and presentation)\ms thesis defense\ms-thesis-defense1.jpeg)
-
 ![Presenting my thesis](\images\Events (Talks and presentation)\ms thesis defense\ms-thesis-defense2.jpeg)
+
+![Presenting my thesis](\images\Events (Talks and presentation)\ms thesis defense\ms-thesis-defense1.jpeg)
 
 ![Photo of me with my thesis](\images\Events (Talks and presentation)\ms thesis defense\ms-thesis-defense3.jpeg)
